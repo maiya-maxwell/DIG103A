@@ -10,13 +10,13 @@ body {
 .header {
   width: 100%;
   height: 250px;
-  background-color: rgb(18, 121, 111);
+  background-color: red;
 }
 
 .menu {
   width: 100%;
   height: 50px;
-  background-color: rgb(199, 134, 78);
+  background-color: lightblue;
 
   display: flex;
   justify-content: center; /* horizontal */
@@ -26,8 +26,9 @@ body {
 .button {
   width: 120px;
   height: 100%;
-  background-color: rgb(203, 164, 130);
+  background-color: black;
   margin: 2px;
+  text-color: white;
 }
 
 .button:hover {
