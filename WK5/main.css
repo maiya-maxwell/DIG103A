@@ -28,7 +28,7 @@ body {
   height: 100%;
   background-color: black;
   margin: 2px;
-  text-color: white;
+  color: white;
 }
 
 .button:hover {
