@@ -21,8 +21,8 @@ body {
   background-color: lightblue;
 
   display: flex;
-  justify-content: centre; /* horizontal */
-  align-items: centre; /* vertical */
+  justify-content: center; /* horizontal */
+  align-items: center; /* vertical */
 }
 
 .button {
