@@ -5,6 +5,19 @@ body {
   background-attachment: scroll;
 }
 
+.h1 {
+  font:
+}
+
+@font-face {
+  font-family: extinction-event;
+  src: url(extinction-event.otf);
+}
+
+.h3 {
+  font: gotham;
+}
+
 .main {
   width: 100%;
 }
