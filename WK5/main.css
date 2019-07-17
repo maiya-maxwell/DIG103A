@@ -21,8 +21,8 @@ body {
   background-color: lightblue;
 
   display: flex;
-  justify-content: center; /* horizontal */
-  align-items: center; /* vertical */
+  justify-content: centre; /* horizontal */
+  align-items: centre; /* vertical */
 }
 
 .button {
@@ -44,6 +44,14 @@ body {
   width: 100%;
   height: 300px;
   background-color: #ffedba;
+}
+
+.img {
+  
+  display: flex;
+  justify-content: centre;
+  align-itmes: centre;
+  
 }
 
 .column-container {
