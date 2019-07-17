@@ -46,14 +46,6 @@ body {
   background-color: #ffedba;
 }
 
-.img {
-  
-  display: flex;
-  justify-content: centre;
-  align-itmes: centre;
-  
-}
-
 .column-container {
   width: 100%;
   height: 300px;
