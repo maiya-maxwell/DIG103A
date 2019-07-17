@@ -12,6 +12,7 @@ body {
 .header {
   width: 100%;
   color: white;
+  background-color: purple;
   justify-content: center;
   padding: 20px
 }
