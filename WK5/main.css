@@ -5,12 +5,10 @@ body {
 
 .main {
   width: 100%;
-  background-color: rgb(153, 120, 247);
 }
 
 .header {
   width: 100%;
-  background-color: rgb(153,50,204);
   color: white;
   justify-content: center;
   padding: 20px
