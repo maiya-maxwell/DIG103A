@@ -51,7 +51,7 @@ body {
   padding: 10px;
 
   display: flex;
-  justify-content: center; /* horizontal */
+  justify-content: flex-start; /* horizontal */
   align-items: center; /* vertical */
 }
 
