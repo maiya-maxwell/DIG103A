@@ -10,7 +10,6 @@ body {
 }
 
 h2 {
-  font-family: 'Gotham', bold;
   text-transform: uppercase;
   font-family: 'extinction-event';
   font-size: 2.15em;
@@ -42,7 +41,7 @@ h3 {
 .icon:hover {
   margin-top: -5px;
   cursor: pointer;
-  color: grey;
+  color: #29303a;
 }
 
 .socialmediaicons {
@@ -116,7 +115,7 @@ h3 {
 }
 
 .button:hover {
-  color: grey;
+  color: #29303a;
 }
 
 .hero {
