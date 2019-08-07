@@ -3,6 +3,27 @@
     <link href="style.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=0.1">
     <style>
+      .main1 {
+      float: left;
+      width: 300px;
+      height: 200px;
+      background-color: green;
+      }
+      
+      .main2 {
+      float: left;
+      width: 300px;
+      height: 200px;
+      background-color: red;
+      }
+      
+      .main3 {
+      float: left;
+      width: 300px;
+      height: 200px;
+      background-color: yellow;
+      }
+     
       
       /* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
       @media screen and (max-width: 600px) {
@@ -24,29 +45,20 @@
           font-size: 50px
         }
       }
-      
-      
-      .main1 {
-      float: left;
-      width: 300px;
-      height: 200px;
-      background-color: green;
+        
+        @media screen and (max-width: 1080px) {
+        .main1 {
+          background-color: green;
+        }
+        .main2 {
+          background-color: red;
+        }
+        .main3 {
+          background-color: yellow;
+        }
       }
       
-      .main2 {
-      float: left;
-      width: 300px;
-      height: 200px;
-      background-color: red;
-      }
-      
-      .main3 {
-      float: left;
-      width: 300px;
-      height: 200px;
-      background-color: yellow;
-      }
-      
+     
     </style>
   </head>
   
